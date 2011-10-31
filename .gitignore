@@ -1,3 +1,9 @@
 .rake_test_cache
 
 .DS_Store
+nodes/*.json
+.chef/checksum/
+*.swp
+*.iml
+.idea/
+.rake_t_cache
